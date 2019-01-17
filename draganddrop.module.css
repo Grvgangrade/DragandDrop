@@ -1,0 +1,59 @@
+.Container {
+    margin: auto;
+    padding: 0;
+}
+
+.Header {
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    background-color: gray;
+}
+
+.Content {
+    margin: 0;
+    padding: 0;
+}
+
+.Listheader {
+    background-color:red;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.List1 {
+    float: left;
+    left: 0;
+    height:600px;
+    overflow-y: auto;
+    margin-left: 0;
+    width: 200px;
+    background-color: yellow;
+    border-right: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+
+.List2 {
+    height: 600px;
+    overflow-y: auto;
+    float:right;
+    margin-right: 0;
+    width: 200px;
+    background-color: yellow;
+    border-left: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+
+.break {
+    clear: both;
+}
+
+.draggable {
+    width:150px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+}

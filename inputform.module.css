@@ -1,0 +1,15 @@
+.InputForm {
+    margin: auto;
+    padding-top: 5px;
+    width: 200px;
+}
+
+.InputForm form input {
+    width: 150px;
+    padding: 4px 3px 2px 3px;
+    margin: 5px;
+    box-shadow: 1px;
+    display: block;
+    position: relative;
+}
+
